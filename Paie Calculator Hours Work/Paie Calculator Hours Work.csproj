@@ -1,0 +1,292 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{722CE860-E711-48C9-8290-B0732FD3912E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Paie_Calculator_Hours_Work</RootNamespace>
+    <AssemblyName>Paie Calculator Hours Work</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>2408346_1EG_icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Office.Interop.Excel.15.0.4795.1000\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Calculate -X Hour.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Calculate -X Hour.Designer.cs">
+      <DependentUpon>Calculate -X Hour.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Calculate 4 Hours.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Calculate 4 Hours.Designer.cs">
+      <DependentUpon>Calculate 4 Hours.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Calculate 7 Hours.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Calculate 7 Hours.Designer.cs">
+      <DependentUpon>Calculate 7 Hours.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Calculate 8 Hours.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Calculate 8 Hours.Designer.cs">
+      <DependentUpon>Calculate 8 Hours.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cumulative Hours.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cumulative Hours.Designer.cs">
+      <DependentUpon>Cumulative Hours.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataEntry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataEntry.Designer.cs">
+      <DependentUpon>DataEntry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Export Calculation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Export Calculation.Designer.cs">
+      <DependentUpon>Export Calculation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Export QZ Total.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Export QZ Total.Designer.cs">
+      <DependentUpon>Export QZ Total.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Export Total.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Export Total.Designer.cs">
+      <DependentUpon>Export Total.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Export Wk Hours.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Export Wk Hours.Designer.cs">
+      <DependentUpon>Export Wk Hours.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Exporter QZ Hours.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Exporter QZ Hours.Designer.cs">
+      <DependentUpon>Exporter QZ Hours.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Import Cumulative.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Import Cumulative.Designer.cs">
+      <DependentUpon>Import Cumulative.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Import Matricules.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Import Matricules.Designer.cs">
+      <DependentUpon>Import Matricules.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Import QZ Matricules.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Import QZ Matricules.Designer.cs">
+      <DependentUpon>Import QZ Matricules.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Import Salaries.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Import Salaries.Designer.cs">
+      <DependentUpon>Import Salaries.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QZ Hours Archive.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QZ Hours Archive.Designer.cs">
+      <DependentUpon>QZ Hours Archive.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QZ Hours Cibel Normal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QZ Hours Cibel Normal.Designer.cs">
+      <DependentUpon>QZ Hours Cibel Normal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QZ Hours Cibel Rest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QZ Hours Cibel Rest.Designer.cs">
+      <DependentUpon>QZ Hours Cibel Rest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Salary Converter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salary Converter.Designer.cs">
+      <DependentUpon>Salary Converter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StringExtension.cs" />
+    <Compile Include="Total Hours.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Total Hours.Designer.cs">
+      <DependentUpon>Total Hours.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Update Cumulative Hours.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Update Cumulative Hours.Designer.cs">
+      <DependentUpon>Update Cumulative Hours.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WK Hours Blue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WK Hours Blue.Designer.cs">
+      <DependentUpon>WK Hours Blue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WK Hours Cibel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WK Hours Cibel.Designer.cs">
+      <DependentUpon>WK Hours Cibel.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Calculate -X Hour.resx">
+      <DependentUpon>Calculate -X Hour.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Calculate 4 Hours.resx">
+      <DependentUpon>Calculate 4 Hours.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Calculate 7 Hours.resx">
+      <DependentUpon>Calculate 7 Hours.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Calculate 8 Hours.resx">
+      <DependentUpon>Calculate 8 Hours.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cumulative Hours.resx">
+      <DependentUpon>Cumulative Hours.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataEntry.resx">
+      <DependentUpon>DataEntry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Export Calculation.resx">
+      <DependentUpon>Export Calculation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Export QZ Total.resx">
+      <DependentUpon>Export QZ Total.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Export Total.resx">
+      <DependentUpon>Export Total.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Export Wk Hours.resx">
+      <DependentUpon>Export Wk Hours.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Exporter QZ Hours.resx">
+      <DependentUpon>Exporter QZ Hours.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Import Cumulative.resx">
+      <DependentUpon>Import Cumulative.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Import Matricules.resx">
+      <DependentUpon>Import Matricules.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Import QZ Matricules.resx">
+      <DependentUpon>Import QZ Matricules.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Import Salaries.resx">
+      <DependentUpon>Import Salaries.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="QZ Hours Archive.resx">
+      <DependentUpon>QZ Hours Archive.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QZ Hours Cibel Normal.resx">
+      <DependentUpon>QZ Hours Cibel Normal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QZ Hours Cibel Rest.resx">
+      <DependentUpon>QZ Hours Cibel Rest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salary Converter.resx">
+      <DependentUpon>Salary Converter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Total Hours.resx">
+      <DependentUpon>Total Hours.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Update Cumulative Hours.resx">
+      <DependentUpon>Update Cumulative Hours.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WK Hours Blue.resx">
+      <DependentUpon>WK Hours Blue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WK Hours Cibel.resx">
+      <DependentUpon>WK Hours Cibel.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="2408346_1EG_icon.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
