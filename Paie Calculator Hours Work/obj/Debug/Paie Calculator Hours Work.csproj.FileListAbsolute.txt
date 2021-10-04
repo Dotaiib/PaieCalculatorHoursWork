@@ -1,0 +1,64 @@
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\Paie Calculator Hours Work\bin\Debug\Paie Calculator Hours Work.exe.config
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\Paie Calculator Hours Work\bin\Debug\Paie Calculator Hours Work.exe
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\Paie Calculator Hours Work\bin\Debug\Paie Calculator Hours Work.pdb
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie Calculator Hours Work.csprojAssemblyReference.cache
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie_Calculator_Hours_Work.DataEntry.resources
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie_Calculator_Hours_Work.Properties.Resources.resources
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie Calculator Hours Work.csproj.GenerateResource.cache
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie Calculator Hours Work.csproj.CoreCompileInputs.cache
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie Calculator Hours Work.exe
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie Calculator Hours Work.pdb
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie_Calculator_Hours_Work.Calculate_8_Hours.resources
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie_Calculator_Hours_Work.Calculate_7_Hours.resources
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie_Calculator_Hours_Work.Calculate_4_Hours.resources
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie_Calculator_Hours_Work.Calculate__X_Hour.resources
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie_Calculator_Hours_Work.Export_Calculation.resources
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie_Calculator_Hours_Work.Import_Cumulative.resources
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie_Calculator_Hours_Work.Cumulative_Hours.resources
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie_Calculator_Hours_Work.Update_Cumulative_Hours.resources
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie_Calculator_Hours_Work.Total_Hours.resources
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie_Calculator_Hours_Work.Export_Total.resources
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie_Calculator_Hours_Work.Import_Salaries.resources
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie_Calculator_Hours_Work.Export_QZ_Total.resources
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie_Calculator_Hours_Work.Salary_Converter.resources
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie_Calculator_Hours_Work.QZ_Hours_Cibel_Normal.resources
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie_Calculator_Hours_Work.QZ_Hours_Cibel_Rest.resources
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie_Calculator_Hours_Work.QZ_Hours_Archive.resources
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie_Calculator_Hours_Work.Import_Matricules.resources
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie_Calculator_Hours_Work.WK_Hours_Cibel.resources
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie_Calculator_Hours_Work.WK_Hours_Blue.resources
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie_Calculator_Hours_Work.Exporter_QZ_Hours.resources
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie_Calculator_Hours_Work.Export_Wk_Hours.resources
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie_Calculator_Hours_Work.Import_QZ_Matricules.resources
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\bin\Debug\Paie Calculator Hours Work.exe.config
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\bin\Debug\Paie Calculator Hours Work.exe
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\bin\Debug\Paie Calculator Hours Work.pdb
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie Calculator Hours Work.csprojAssemblyReference.cache
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie_Calculator_Hours_Work.Calculate__X_Hour.resources
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie_Calculator_Hours_Work.Calculate_4_Hours.resources
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie_Calculator_Hours_Work.Calculate_7_Hours.resources
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie_Calculator_Hours_Work.Calculate_8_Hours.resources
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie_Calculator_Hours_Work.Cumulative_Hours.resources
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie_Calculator_Hours_Work.DataEntry.resources
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie_Calculator_Hours_Work.Export_Calculation.resources
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie_Calculator_Hours_Work.Export_QZ_Total.resources
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie_Calculator_Hours_Work.Export_Total.resources
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie_Calculator_Hours_Work.Export_Wk_Hours.resources
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie_Calculator_Hours_Work.Exporter_QZ_Hours.resources
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie_Calculator_Hours_Work.Import_Cumulative.resources
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie_Calculator_Hours_Work.Import_Matricules.resources
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie_Calculator_Hours_Work.Import_QZ_Matricules.resources
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie_Calculator_Hours_Work.Import_Salaries.resources
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie_Calculator_Hours_Work.Properties.Resources.resources
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie_Calculator_Hours_Work.QZ_Hours_Archive.resources
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie_Calculator_Hours_Work.QZ_Hours_Cibel_Normal.resources
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie_Calculator_Hours_Work.QZ_Hours_Cibel_Rest.resources
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie_Calculator_Hours_Work.Salary_Converter.resources
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie_Calculator_Hours_Work.Total_Hours.resources
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie_Calculator_Hours_Work.Update_Cumulative_Hours.resources
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie_Calculator_Hours_Work.WK_Hours_Blue.resources
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie_Calculator_Hours_Work.WK_Hours_Cibel.resources
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie Calculator Hours Work.csproj.GenerateResource.cache
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie Calculator Hours Work.csproj.CoreCompileInputs.cache
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie Calculator Hours Work.exe
+D:\Myproject\Paie Calculator Hours Work\Paie Calculator Hours Work\obj\Debug\Paie Calculator Hours Work.pdb
